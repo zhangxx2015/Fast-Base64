@@ -3,7 +3,7 @@
 an fast Base64 function by QQ:20437023
 MIT License Copyright (c) 2018 zhangxx2015
         
-# 手工实现的一个base64编码算法,性能由于dotnet自带函数, 仅 45 行代码
+# 手工实现的一个base64编码算法,性能优于dotnet自带函数, 仅 45 行代码
 # A handmade Base64 coding algorithm, Performance is better than Convert.ToBase64String. only 45 lines.
         
 ### benchmark
